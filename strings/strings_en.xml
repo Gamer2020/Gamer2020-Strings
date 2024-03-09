@@ -4865,7 +4865,7 @@
   <string id="16777218">{02} is a decent nickname,\nbut would you like me\nto change it?</string>
   <string id="16777219">Would you like to allow {00}\nto train with the other {STRING_0} and\ngain experience?</string>
   <string id="16777220">How's that egg doing?\nLet me know if it hatches!</string>
-  <string id="16777221">Do you have a {STRING_245004}\nto hold this Egg?</string>
+  <string id="16777221">{09}</string>
   <string id="16777223">Come back when you have\na {STRING_245004}!</string>
   <string id="16777224">She will be back in\n{00}.</string>
   <string id="16777225">But, you must have the {00} item\nto proceed.</string>
@@ -5036,20 +5036,20 @@
   <string id="16779070">Hello!\nHow may I be of assistance?</string>
   <string id="16779071">Hello!\n\nWould you like to smell some of\nmy fragrant scents?</string>
 
-  <string id="16779080">I'm the {STRING_10}.\n\nI breed {STRING_0} to help them\nunlock their true potential.\n\nYour {STRING_0} seem healthy!\nHow about a trade?\n\nI'll keep two of your {STRING_0}, and\nin return I will give you an egg.</string>
-  <string id="16779081">You don't seem to have enough\n{STRING_0}...</string>
-  <string id="16779082">You won't get these {STRING_0} back.\n\nAre you sure?</string>
-  <string id="16779083">Which {STRING_0} would you like\nto trade?</string>
+  <string id="16779080">{09}</string>
+  <string id="16779081">{09}</string>
+  <string id="16779082">{09}</string>
+  <string id="16779083">{09}</string>
   <string id="16779084">Fine, I'll take your {00}.\n\nWhich other {STRING_0} would you\nlike to trade?</string>
   <string id="16779085">These {STRING_0} are unable to\nproduce an Egg...</string>
   <string id="16779086">Come see me in a while.</string>
-  <string id="16779087">Ah, it's you!\n\nYou're just in time.\nYour {STRING_0} had an Egg!\n\nAs promised, it belongs to you.\n\nYou do want it, yes?</string>
+  <string id="16779087">{09}</string>
   <string id="16779088">Come back when you're ready to take\nthis Egg.</string>
   <string id="16779089">Your {00} is holding a(n)\n{01}.\n\nI wouldn't want to take it from you.\nYou should retrieve it.</string>
   <string id="16779090">The requested {STRING_0} cannot\nbe traded because it was a gift.</string>
-  <string id="16779091">Would you like a specific gender?\nIt'll cost a little extra.</string>
-  <string id="16779092">Which would you prefer?</string>
-  <string id="16779093">It will cost an extra ${00}.\nIs this OK?</string>
+  <string id="16779091">M/F?</string>
+  <string id="16779092">{09}</string>
+  <string id="16779093">${00}</string>
   <string id="16779094">You do not have enough money.</string>
   <string id="16779095">That {STRING_0} looks special.\nYou should hold onto it for now.</string>
   <string id="16779096">Both of those {STRING_0} are holding\na {00}!\n\nYou should retrieve one.</string>
