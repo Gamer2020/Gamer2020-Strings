@@ -7,5 +7,6 @@ Strings done to Gamer2020's preference. Not recommend for everyone unless you wa
 * Unova Pokemon Center.
 * Unova Breeding.
 * Sinnoh Pokemon Center.
-* Shinnoh Fossils.
+* Sinnoh Fossils.
 * Sinnoh Breeding.
+* Some modifications for level up moves for Nincada.
